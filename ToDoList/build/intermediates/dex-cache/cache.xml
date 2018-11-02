@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.android/build-cache/8a0c84b9d6183a8c5fdd092fea7f826acd482fd4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/mark/Desktop/android_class_examples/ToDoList/app/build/intermediates/pre-dexed/debug/classes_8fae25fcd0f3e012b8c216cb872ec3fe51cd97a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.android/build-cache/5cdc6da9d009f2814b37946e28b4cd2f6647b08d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/mark/Desktop/android_class_examples/ToDoList/app/build/intermediates/pre-dexed/debug/classes_6338762ea20e19a392407262fcf2355e20d2b563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.android/build-cache/37f0843902d8a4212dad65fa3b309f0be0f6f7c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/mark/Desktop/android_class_examples/ToDoList/app/build/intermediates/pre-dexed/debug/classes_152e7ab2edb937b2eb687519de62a5e269bf84cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/mark/Desktop/android_class_examples/ToDoList/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta4_0968dfe9ea05feca0f0cebb28752b6982c24161f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/mark/Desktop/android_class_examples/ToDoList/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_eab530a17d609ee6ad134e70cb9f81c5e24fc5cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.android/build-cache/7fd60fa3c2b0d950305e5055918b1801ad8fb0b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/mark/Desktop/android_class_examples/ToDoList/app/build/intermediates/pre-dexed/debug/classes_a1117396105360ce7c26bacc0aca6e4159bec9d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.android/build-cache/a075b67db37507beeefe9e292c4ba5e6f2814f5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/mark/Desktop/android_class_examples/ToDoList/app/build/intermediates/pre-dexed/debug/classes_f61dcb704fc4e9889d19a8ec4f03babbb7db0256.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.android/build-cache/6d9dd0b3d9e3d4654255a61eef28d396a1e800a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/mark/Desktop/android_class_examples/ToDoList/app/build/intermediates/pre-dexed/debug/classes_9c5fbe6996602ab16c8c19bd34d3ecd5fff2b111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.android/build-cache/34a922a55c715181f67ffdc32c08152ef4b0e9ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/mark/Desktop/android_class_examples/ToDoList/app/build/intermediates/pre-dexed/debug/classes_67bf82665270442db9a0545f81899cc4fbaacae2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.android/build-cache/46803cfbaea8c315f349733a97d60a355d1ab4b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mark/Desktop/android_class_examples/ToDoList/app/build/intermediates/pre-dexed/debug/classes_393cb3de36b5610ea3819f7177b98d45fb196387.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.android/build-cache/2af078fe0ca702a3be34c8535ae710a7abd98f39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/mark/Desktop/android_class_examples/ToDoList/app/build/intermediates/pre-dexed/debug/classes_e9f0258b9a9ca6f55a942ced8a9749888b78c85d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.android/build-cache/0b73acfaa037df4ff5dcef4f3714b4dcbf641cda/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/mark/Desktop/android_class_examples/ToDoList/app/build/intermediates/pre-dexed/debug/classes_dbf55a42db40d08c454a672fc0dec3745d9afd72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.android/build-cache/cf38b6fc3316ce4acdf9c94716dd9c00b7d85e41/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/mark/Desktop/android_class_examples/ToDoList/app/build/intermediates/pre-dexed/debug/classes_06ca3628375ba8245ea2b9bb8e38cb9cae4526b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.android/build-cache/ff177b4268f6602048b137a870c729bb498d07d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/mark/Desktop/android_class_examples/ToDoList/app/build/intermediates/pre-dexed/debug/classes_4aa0b5c03b04b507ab07760e83aadcafab93c5cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/.android/build-cache/1dffac234cfaf7b01f2cfe5c45fbdcea821f4cd7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/mark/Desktop/android_class_examples/ToDoList/app/build/intermediates/pre-dexed/debug/classes_951282413ad3267f9eb773edddb30bd8565e5066.jar" />
+    </item>
+
+</items>
