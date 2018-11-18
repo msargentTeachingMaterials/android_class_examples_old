@@ -1,0 +1,4 @@
+#Wed Aug 15 11:48:49 PDT 2018
+base.0=/Users/mark/Desktop/Android-Class-Examples/NYTimesMostPopular/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex

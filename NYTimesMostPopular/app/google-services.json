@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "566572623484",
+    "firebase_url": "https://newsapp-453ee.firebaseio.com",
+    "project_id": "newsapp-453ee",
+    "storage_bucket": "newsapp-453ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566572623484:android:921cc64ea847fa6a",
+        "android_client_info": {
+          "package_name": "com.sargent.mark.populararticles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566572623484-bsf9npa432ad15jlnesev743qt2vrsoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx5SWWJb39ScFEuZUMigNvc4n8dz9Q13M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

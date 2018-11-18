@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Nov 18 10:57:46 PST 2018
+0.baseType=DIRECTORY
+0.base=/Users/mark/Desktop/android_class_examples/NYTimesMostPopular/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
