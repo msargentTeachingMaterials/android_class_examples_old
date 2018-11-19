@@ -31,7 +31,7 @@ public class NetworkUtils {
 
     public static URL makeURL() {
         Uri uri = Uri.parse(GITHUB_BASE_URL).buildUpon()
-                .appendQueryParameter(PARAM_API_KEY, "a1b462f40fff4aada162b5113341c760").build();
+                .appendQueryParameter(PARAM_API_KEY, "getyourown").build();
 
         URL url = null;
         try {
