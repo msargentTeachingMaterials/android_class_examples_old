@@ -25,8 +25,7 @@ public class MainActivity extends AppCompatActivity {
         rickRunnable = new Runnable() {
             @Override
             public void run() {
-                display.setText("Never gonna give you up, never gonna let you down, never gonna" +
-                        "run around and desert you!");
+                display.setText(R.string.rick_string);
                 MainActivity.this.startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/watch?v=h9ClBzQwvhw")));
             }
         };
